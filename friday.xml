@@ -1,6 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <krpano>
-  <data name="friday_test">
-    AUTHORIZED TEST - FRIDAY - 2026-11-06
-  </data>
+  <layer
+    name="friday_proof"
+    type="text"
+    align="center"
+    html="AUTHORIZED TEST - FRIDAY - 2026-11-06"
+    css="font-family:Arial;font-size:24px;color:#000000;"
+    bg="true"
+    bgcolor="0xFFFFFF"
+    bgalpha="1.0"
+    padding="20"
+  />
 </krpano>
